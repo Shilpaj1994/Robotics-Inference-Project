@@ -199,17 +199,17 @@ Steps:
 
 ### 4. Prepare Dataset
 
-![](writeup/3.jpg)
+![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/3.JPG?raw=true)
 
 - Select proper parameters and given name to the dataset
 
 - Dataset Preview
 
-  ![](Writeup/5.jpg)
+  ![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/5.JPG?raw=true)
 
-  ![](Writeup/6.jpg)
+  ![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/6.JPG?raw=true)
 
-  ![](Writeup/7.jpg)
+  ![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/7.JPG?raw=true)
 
   
 
@@ -217,15 +217,15 @@ Steps:
 
 ### 5. Select Model and Training Parameters
 
-![](Writeup/8.jpg)
+![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/8.JPG?raw=true)
 
-![](Writeup/9.jpg)
+![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/9.JPG?raw=true)
 
 
 
 ### 6. Train the Model
 
-![](Writeup/22.jpg)
+![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/22.JPG?raw=true)
 
 
 
@@ -235,7 +235,7 @@ Steps:
 
 - On the model training page, you can select image path and check model predictions
 
-  ![](Writeup/12.jpg)
+  ![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/12.JPG?raw=true)
 
 
 
@@ -249,7 +249,7 @@ Steps:
 
 - The enter the job ID mentioned on the model training page
 
-![](Writeup/20.jpg)
+![](https://github.com/Shilpaj1994/Robotics-Inference-Project/blob/master/Writeup/20_2.JPG?raw=true)
 
 
 
